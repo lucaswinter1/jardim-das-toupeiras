@@ -10,7 +10,7 @@ body{
 }
 
 .main{
-    width: 1440px;
+    width: 100vw;
     height: 1024px;
     margin: 0 auto;
     background-image: url("./Images/fundo.svg");
